@@ -1,0 +1,163 @@
+[
+    {
+        "itemphotos": [
+                        "https://livedoor.blogimg.jp/danielwellington/imgs/3/1/31a9217d.jpg",
+            "https://tshop.r10s.jp/watch-lab/cabinet/001/037/item-47276.jpg",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "https://tshop.r10s.jp/watch-lab/cabinet/001/037/item-47276.jpg"
+        ],
+        "name": "バングル",
+        "price": "15,000",
+        "state": false,
+        "text": "ダニエル・ウェリントンのバングル。ブランドの刻印が入っていてシンプルな作りになっている。",
+        "id": 1000,
+        "colors": "シルバー",
+        "maker": "ダニエル・ウェリントン",
+        "num": 0
+    },
+    {
+        "itemphotos": [
+            "https://tshop.r10s.jp/dynajewelry/cabinet/iyaring/imgrc0072039527.jpg?fitin=720%3A720",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "イヤリング",
+        "price": "1,500",
+        "state": true,
+        "text": "２つセットのシルバーイヤリング。ポタラと同じ能力を持つ。",
+        "id": 1001,
+        "colors": "シルバー",
+        "maker": "MATHUYA",
+        "num": 1
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "リング",
+        "price": "1,000",
+        "state": true,
+        "text": "ゴツゴツしたシルバーリング。太めにつくってあるので、指先のアクセントになること間違いなし。",
+        "id": 1002,
+        "colors": "シルバー",
+        "maker": "MATHUYA",
+        "num": 2
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "バングル",
+        "price": "5,000",
+        "state": true,
+        "text": "友人のスズキからもらったバングル。装着の仕方が独特。",
+        "id": 1003,
+        "colors": "シルバー",
+        "maker": "SUZUKI",
+        "num": 3
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "ネックレス",
+        "price": "1,000",
+        "state": true,
+        "text": "ネックレスが欲しくなり買ったのはいいが、少し長かったネックレス。",
+        "id": 1004,
+        "colors": "シルバー",
+        "maker": "MATHUYA",
+        "num": 4
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "メガネ",
+        "price": "7,000",
+        "state": true,
+        "text": "赤札堂のメガネ、専門学校に入学してから新調したもの。少し歪んでいる。",
+        "id": 1005,
+        "colors": "シルバー",
+        "maker": "赤札堂",
+        "num": 5
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "ブレスレット",
+        "price": 500,
+        "state": true,
+        "text": "鎖のようなデザインのブレスレット、触るとわかるが安物感が強すぎる。",
+        "id": 1006,
+        "colors": "シルバー",
+        "maker": "ZOZOTOWN",
+        "num": 6
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "ブレスレット",
+        "price": "1,000",
+        "state": true,
+        "text": "2メンのシルバーブレスレット、装着するのに腕が三本は必要。腕は別売り。",
+        "id": 1007,
+        "colors": "シルバー",
+        "maker": "ZOZOTOWN",
+        "num": 7
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "ブレスレット",
+        "price": "1,250",
+        "state": true,
+        "text": "とても軽く、装着がかなり難しいブレスレット、装着しても外すのに腕が3本いる。",
+        "id": 1008,
+        "colors": "シルバー",
+        "maker": "ZOZOTOWN",
+        "num": 8
+    },
+    {
+        "itemphotos": [
+                        "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png",
+            "http://placehold.jp/400x400.png"
+        ],
+        "name": "ブレスレット",
+        "price": "3,520",
+        "state": true,
+        "text": "三編みのように編まれているブレスレット。装着するのに時間と労力がかかる",
+        "id": 1009,
+        "colors": "シルバー",
+        "maker": "ZOZOTOWN",
+        "num": 9
+    }
+]
