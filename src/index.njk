@@ -22,17 +22,15 @@ csspath: ../css/
 <div class="main__inner">
 <section class="item">
             <h2 class="item__title">{{ title }}</h2>
-                     <div class="toggleable">
-                    <input class="toggleable__control hidden--visually" id="toggleable1" type="checkbox">
-                    <label class="toggleable__label" for="toggleable1">View more</label>
-                    <div class="toggleable__content">
                     <div class="item__flex ">
                     {% for ecs in ec %}
                         <div class="item__wrap">
                             <a class="item__link" href="./article/{{ ecs.num }}/index.html">
-                        	<img class="item__img" src="{{ ecs.itemphotos[0] }}" alt="">
-                            <p class="item__name">{{ ecs.name }}</p>
-                            <p class="item__price">¥{{ ecs.price }}</p>
+                        	<img class="item__img" src="../images/{{ ecs.itemphotos[0] }}" alt="">
+                            <div class="item__textflex">
+                                <p class="item__name">{{ ecs.name }}</p>
+                                <p class="item__price">¥{{ ecs.price }}</p>
+                            </div>
                             {% if ecs.state %}
                             <p></p>
                             {% else %}
@@ -42,8 +40,6 @@ csspath: ../css/
                         </div>
                 	{% endfor %}
                     </div>
-                </div>
-            </div>
 </section>    
 </div>    
 </main>

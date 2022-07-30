@@ -27,12 +27,12 @@ csspath: ../../css/
 <section class="article">
 <div class="article__flex">
     <div class="article__img">
-      <img src="{{ pagination.items[0].itemphotos[0] }}" name="ph01">
+      <img src="../../images/{{ pagination.items[0].itemphotos[0] }}" name="ph01">
         <div class="img">
         {% for i in pagination.items[0].itemphotos %}
           <div>
-          <a href="javascript:document.ph01.src = '{{i}}'; void(0);">
-          <img id="img{{ loop.index }}" src="{{i}}">
+          <a href="javascript:document.ph01.src = '../../images/{{i}}'; void(0);">
+          <img id="img{{ loop.index }}" src="../../images/{{i}}">
           </a>
         </div>
         {% endfor %}
