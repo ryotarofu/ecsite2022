@@ -213,11 +213,9 @@ input {
 }
 
 .toggleable__content {
-  max-height: 0;
-  overflow: hidden;
   transition: max-height 0.8s cubic-bezier(0, 1, 0, 1);
 }
-.toggleable__control:checked ~ .toggleable__content {
+.toggleable__content {
   transition-timing-function: ease-in-out;
   max-height: 5000px;
 }

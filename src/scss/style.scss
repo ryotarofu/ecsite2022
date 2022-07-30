@@ -266,12 +266,10 @@
     .toggleable{
 
         &__content {
-            max-height: 0;
-            overflow: hidden;
             transition: max-height .8s cubic-bezier(0,1,0,1)
         }
         
-        &__control:checked ~ &__content {
+        &__content {
             transition-timing-function: ease-in-out;
             max-height: 5000px;
         }
